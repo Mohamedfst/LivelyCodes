@@ -1,0 +1,11 @@
+{
+	"name": "Lively",
+	"version": "1.0.0",
+	"description": "Take home assignment.",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"author": "Mohamed Keita",
+	"license": "ISC"
+}
